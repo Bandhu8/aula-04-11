@@ -2,7 +2,7 @@
 $hotsname = "localhost";
 $username = "root";
 $password = "";
-$database = "sistema_endereços";
+$database = "sistema_enderecos";
 
 $conexao = mysqli_connect($hotsname, $username, $password, $database);
 
